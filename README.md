@@ -78,4 +78,4 @@ NOTE:- Refer `Report.pdf` for more comprehensive idea of our approach.
 
 ## 👥 Contributors
 
-This solution was developed with dedication, collaboration, and pa
+This solution was developed with dedication, collaboration, and passion by a team of skilled students from Azad Hall of Residence, Indian Institute of Technology Kharagpur.
